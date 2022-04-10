@@ -1,0 +1,50 @@
+
+body{
+    background-color: #CBD0D8;
+    color:#333D51;
+}
+#Top{
+    font-size: 25px;
+    color: black;
+    margin-bottom: 8px;
+}
+#userInfoRightSide{
+    margin-left:400px;
+    margin-top:40px;
+    display:inline-block;
+    font-size: 18px;
+}
+#header{
+    margin:30px 50px;
+    height:30px;
+    margin: 40px 0px 0px 550px;
+    font-size: 50px;
+    font-style: italic;
+}
+#TopSide{
+    font-size: 25px;
+    color: black;
+    margin-top: 80px;
+}
+#icon{
+    background-color: white;
+    margin-right:10px;
+    width:30px;
+    height:30px
+}
+#userInfo{
+    margin-left:100px;
+    margin-top: 100px;
+    display:inline-block;
+    font-size: 18px;
+}
+#imgContainer{
+    display:inline-block;
+    vertical-align:top;
+}
+#userImg{
+    width:400px;
+    height:400px;
+    margin-top:100px;
+    margin-left: 50px;   
+}
